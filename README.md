@@ -1,0 +1,16 @@
+# Etherscan-API-Algotrading101
+
+[Etherscan API: A step-by-step Guide](https://algotrading101.com/learn/etherscan-api-guide/)
+
+Etherescan is the Ethereum blockchain explorer that is used for obtaining data on everything that is being transacted on top of the Ethereum blockchain.
+
+## Table of contents
+
+<ol><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#what-is-etherscan-api">What is Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#what-is-etherscan">What is Etherscan?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-use">What is Etherscan API used for?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-pros">Why should I use Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-cons">Why shouldn’t I use Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-free">Is Etherscan API free?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-alternatives">What are the alternatives to Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-start">How to get started with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-ether-balance">How to get Ether balance for a single address with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-list-of-normal-transactions">How to get a list of normal transactions by address with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-list-of-erc20-token-transfer-events">How to get a list of ERC20 token transfer events by address with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-contracts">How to get contracts with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-check-transactions">How to check transaction status with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-block-data">How to obtain block data with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-logs">How to get logs with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-geth/parity-proxy">How to use the Geth/Parity Proxy with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-tokens-data">How to get tokens data with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-gas-tracker">How to use the gas tracker with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-stats">How to obtain stats with Etherscan API?</a></li><li><a href="https://algotrading101.com/learn/etherscan-api-guide/#etherscan-api-full-code">Full code</a></li></ol>
+
+----------
+## Info
+
+| Author | Igor Radovanovic
+--- | ---
+| Published | February 12, 2023
